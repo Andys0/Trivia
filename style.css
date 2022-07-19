@@ -1,0 +1,64 @@
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13px;
+    background-color: darksalmon;
+    }
+
+#inicio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Geostar Fill', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+}
+
+#frase{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Geostar Fill', cursive;
+    font-family: 'Indie Flower', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Lora', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+}
+
+#categoria{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+#dificultad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+
+#pregunta{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25cdpx;
+    font-style: italic;
+}
+
+#botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
